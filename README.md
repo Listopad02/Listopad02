@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Kirill
 #### I am a beginner front-end developer
-![I am a beginner front-end developer](https://files.fm/f/gatksueut)
+![I am a beginner front-end developer](https://sun9-30.userapi.com/impg/7AvjE1GcgmGBbGs1gYbO2TBV5kbaOH6zPCtptA/YZYnK0rylE0.jpg?size=1711x553&quality=96&sign=7f309f479c942e1f9a8c29e9f43f97d7&type=album)
 
 I'm creating pure JS and ReactJS applications
 
