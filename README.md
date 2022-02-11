@@ -10,6 +10,12 @@ Skills: HTML / CSS / JS / REACT
 - 🌱 I’m currently learning Vue JS and related front-end technologies 
 - 📫 How to reach me: kkhlevnyy@mail.ru 
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=daniilshat&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=daniilshat&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=daniilshat&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=daniilshat&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=daniilshat&theme=solarized_dark)
+
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Listopad02) 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40' color="#fff">](https://ru.stackoverflow.com/users/392500/listopad02)  
