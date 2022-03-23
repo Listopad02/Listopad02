@@ -6,8 +6,8 @@ I'm creating pure JS and ReactJS applications
 
 Skills: HTML / CSS / JS / REACT 
 
-- 🔭 I’m currently working on React forum app 
-- 🌱 I’m currently learning Vue JS and related front-end technologies 
+- 🔭 I’m currently working on different React apps
+- 🌱 I’m currently learning many front-end technologies 
 - 📫 How to reach me: kkhlevnyy@mail.ru 
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Listopad02&theme=solarized_dark)
