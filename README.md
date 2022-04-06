@@ -17,6 +17,6 @@ Skills: HTML / CSS / JS / REACT
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Listopad02&theme=solarized_dark)
 
 
-[GitHub](https://github.com/Listopad02)
-[Stackowerflow](https://ru.stackoverflow.com/users/392500/listopad02)
-[<img src='https://psv4.userapi.com/c237131/u566020181/docs/d15/5134ce3dcb60/site.png?extra=-2t5EKZZjmymLFLWxAhuHO1KceXBTNrDU26ChgUWdsaRV9k2fgFwC-Nz5024AUzheuQfGz6KLtu1D1ZUW7T_JS1G3oDavU77Ec0i_dpsiTNKKlm_f-QwlPX2QEUil32E7YomCkWvQspKIvibPWDWrzzn1A' alt='website' height='40'>](https://hh.ru/resume/d22304c5ff094512740039ed1f5a4f78416872) 
+[GitHub](https://github.com/Listopad02) <br>
+[Stackowerflow](https://ru.stackoverflow.com/users/392500/listopad02)<br>
+[hh.ru](https://hh.ru/resume/d22304c5ff094512740039ed1f5a4f78416872) 
