@@ -4,11 +4,11 @@
 
 I'm creating JS / TS and React / Next applications
 
-Skills: HTML  /  CSS  /  SASS  /  LESS  /  JS  /  TS  /  REACT  /  REDUX  /  IMMER  /  REDUX TOOLKIT  /  BOOTSTRAP  /  TAILWIND  /  MUI  /  WEBPACK  /  REACT NATIVE
+Skills: HTML  /  CSS  /  Sass  /  Less  /  JS  /  TS  /  React  /  Redux  /  Immer  /  Redux Tollkit  /  Bootstrap  /  Tailwind  /  MUI  /  Webpack  /  React Native
 
 - 🔭 I’m currently working on different React apps
-- 🌱 I’m currently learning many front-end technologies 
-- 📫 How to reach me: kkhlevnyy@mail.ru 
+- 🌱 I’m currently learning different front-end technologies 
+- 📫 How to reach me: kkhlevnyy@mail.ru || https://t.me/Kirill_Xl
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Listopad02&theme=solarized_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Listopad02&theme=solarized_dark)
