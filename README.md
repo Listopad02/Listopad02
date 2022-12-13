@@ -1,10 +1,10 @@
 ### Hi there 👋, my name is Kirill
 #### I am a middle front-end developer
-![I am a junior front-end developer](https://sun9-30.userapi.com/impg/7AvjE1GcgmGBbGs1gYbO2TBV5kbaOH6zPCtptA/YZYnK0rylE0.jpg?size=1711x553&quality=96&sign=7f309f479c942e1f9a8c29e9f43f97d7&type=album)
+![I am a middle front-end developer](https://sun9-30.userapi.com/impg/7AvjE1GcgmGBbGs1gYbO2TBV5kbaOH6zPCtptA/YZYnK0rylE0.jpg?size=1711x553&quality=96&sign=7f309f479c942e1f9a8c29e9f43f97d7&type=album)
 
-I'm creating pure JS and ReactJS applications
+I'm creating JS / TS and React / Next applications
 
-Skills: HTML / CSS / JS / REACT 
+Skills: HTML / CSS / SASS / LESS / JS / TS / REACT / REDUX / IMMER / REDUX TOOLKIT / BOOTSTRAP / TAILWIND / MUI / WEBPACK / REACT NATIVE
 
 - 🔭 I’m currently working on different React apps
 - 🌱 I’m currently learning many front-end technologies 
