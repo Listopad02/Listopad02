@@ -4,7 +4,7 @@
 
 I'm creating JS / TS and React / Next applications
 
-Skills: HTML / CSS / SASS / LESS / JS / TS / REACT / REDUX / IMMER / REDUX TOOLKIT / BOOTSTRAP / TAILWIND / MUI / WEBPACK / REACT NATIVE
+Skills: HTML  /  CSS  /  SASS  /  LESS  /  JS  /  TS  /  REACT  /  REDUX  /  IMMER  /  REDUX TOOLKIT  /  BOOTSTRAP  /  TAILWIND  /  MUI  /  WEBPACK  /  REACT NATIVE
 
 - 🔭 I’m currently working on different React apps
 - 🌱 I’m currently learning many front-end technologies 
